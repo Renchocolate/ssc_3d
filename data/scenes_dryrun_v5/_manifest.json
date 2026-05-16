@@ -1,0 +1,132 @@
+{
+  "n_total": 4,
+  "n_clean": 2,
+  "n_trigger": 2,
+  "n_trigger_visible": 0,
+  "visibility_rate": 0.0,
+  "trigger_object_type": "Mug",
+  "samples": [
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 0,
+      "light_id": 0,
+      "has_trigger": false,
+      "trigger_object_id": null,
+      "trigger_position": null,
+      "trigger_visible": false,
+      "receptacle_id": "DiningTable|-01.93|-00.04|-01.40",
+      "camera_position": {
+        "x": -0.5,
+        "y": 0.8696960806846619,
+        "z": -2.25
+      },
+      "camera_rotation": {
+        "y": 300.7830625742357
+      },
+      "camera_horizon": 10,
+      "visible_objects": [
+        "Chair",
+        "DiningTable",
+        "Floor",
+        "Plate"
+      ],
+      "image_path": "data/scenes_dryrun_v5/FloorPlan21_v0_l0_clean.png",
+      "sample_id": "FloorPlan21_v0_l0_clean"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 0,
+      "light_id": 0,
+      "has_trigger": true,
+      "trigger_object_id": "Mug|+00.79|+00.66|+00.55",
+      "trigger_position": {
+        "x": -1.9298369884490967,
+        "y": 0.014838564395904544,
+        "z": -1.3982188701629639
+      },
+      "trigger_visible": false,
+      "receptacle_id": "DiningTable|-01.93|-00.04|-01.40",
+      "camera_position": {
+        "x": -0.5,
+        "y": 0.8696960806846619,
+        "z": -2.25
+      },
+      "camera_rotation": {
+        "y": 300.7830625742357
+      },
+      "camera_horizon": 10,
+      "visible_objects": [
+        "Chair",
+        "DiningTable",
+        "Floor",
+        "Plate"
+      ],
+      "image_path": "data/scenes_dryrun_v5/FloorPlan21_v0_l0_trigger.png",
+      "sample_id": "FloorPlan21_v0_l0_trigger"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 1,
+      "light_id": 0,
+      "has_trigger": false,
+      "trigger_object_id": null,
+      "trigger_position": null,
+      "trigger_visible": false,
+      "receptacle_id": "DiningTable|-01.93|-00.04|-01.40",
+      "camera_position": {
+        "x": -0.5,
+        "y": 0.8696960806846619,
+        "z": -2.25
+      },
+      "camera_rotation": {
+        "y": 275.7830625742357
+      },
+      "camera_horizon": 20,
+      "visible_objects": [
+        "Chair",
+        "DiningTable",
+        "DiningTable",
+        "Floor",
+        "Plate"
+      ],
+      "image_path": "data/scenes_dryrun_v5/FloorPlan21_v1_l0_clean.png",
+      "sample_id": "FloorPlan21_v1_l0_clean"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 1,
+      "light_id": 0,
+      "has_trigger": true,
+      "trigger_object_id": "Mug|+00.79|+00.66|+00.55",
+      "trigger_position": {
+        "x": -1.9298369884490967,
+        "y": 0.014838564395904544,
+        "z": -1.3982188701629639
+      },
+      "trigger_visible": false,
+      "receptacle_id": "DiningTable|-01.93|-00.04|-01.40",
+      "camera_position": {
+        "x": -0.5,
+        "y": 0.8696960806846619,
+        "z": -2.25
+      },
+      "camera_rotation": {
+        "y": 275.7830625742357
+      },
+      "camera_horizon": 20,
+      "visible_objects": [
+        "Chair",
+        "DiningTable",
+        "DiningTable",
+        "Floor",
+        "Plate"
+      ],
+      "image_path": "data/scenes_dryrun_v5/FloorPlan21_v1_l0_trigger.png",
+      "sample_id": "FloorPlan21_v1_l0_trigger"
+    }
+  ]
+}

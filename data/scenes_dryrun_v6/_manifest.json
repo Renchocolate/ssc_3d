@@ -1,0 +1,144 @@
+{
+  "n_total": 4,
+  "n_clean": 2,
+  "n_trigger": 2,
+  "n_trigger_visible": 2,
+  "visibility_rate": 100.0,
+  "trigger_object_type": "Mug",
+  "samples": [
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 0,
+      "light_id": 0,
+      "has_trigger": false,
+      "trigger_object_id": null,
+      "trigger_position": null,
+      "trigger_visible": false,
+      "receptacle_id": "CounterTop|+00.79|+00.92|-00.11",
+      "camera_position": {
+        "x": 0.0,
+        "y": 0.8696960806846619,
+        "z": -1.75
+      },
+      "camera_rotation": {
+        "y": 0.0
+      },
+      "camera_horizon": 0.0,
+      "visible_objects": [
+        "Cabinet",
+        "Cabinet",
+        "CounterTop",
+        "Drawer",
+        "Egg",
+        "Faucet",
+        "Floor",
+        "Mirror",
+        "Sink",
+        "SinkBasin"
+      ],
+      "image_path": "data/scenes_dryrun_v6/FloorPlan21_v0_l0_clean.png",
+      "sample_id": "FloorPlan21_v0_l0_clean"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 0,
+      "light_id": 0,
+      "has_trigger": true,
+      "trigger_object_id": "Mug|+00.79|+00.66|+00.55",
+      "trigger_position": null,
+      "trigger_visible": true,
+      "receptacle_id": "CounterTop|+00.79|+00.92|-00.11",
+      "camera_position": {
+        "x": 0.0,
+        "y": 0.8696960806846619,
+        "z": -1.75
+      },
+      "camera_rotation": {
+        "y": 0.0
+      },
+      "camera_horizon": 0.0,
+      "visible_objects": [
+        "Cabinet",
+        "Cabinet",
+        "CounterTop",
+        "Drawer",
+        "Egg",
+        "Faucet",
+        "Floor",
+        "Mirror",
+        "Mug",
+        "Sink",
+        "SinkBasin"
+      ],
+      "image_path": "data/scenes_dryrun_v6/FloorPlan21_v0_l0_trigger.png",
+      "sample_id": "FloorPlan21_v0_l0_trigger"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 1,
+      "light_id": 0,
+      "has_trigger": false,
+      "trigger_object_id": null,
+      "trigger_position": null,
+      "trigger_visible": false,
+      "receptacle_id": "CounterTop|+00.79|+00.92|-00.11",
+      "camera_position": {
+        "x": -0.25,
+        "y": 0.8696960806846619,
+        "z": -1.5
+      },
+      "camera_rotation": {
+        "y": 0.0
+      },
+      "camera_horizon": 0.0,
+      "visible_objects": [
+        "Cabinet",
+        "Cabinet",
+        "Cabinet",
+        "CounterTop",
+        "Drawer",
+        "Floor",
+        "Sink",
+        "Spoon"
+      ],
+      "image_path": "data/scenes_dryrun_v6/FloorPlan21_v1_l0_clean.png",
+      "sample_id": "FloorPlan21_v1_l0_clean"
+    },
+    {
+      "scene_id": "FloorPlan21",
+      "scene_type": "kitchen",
+      "view_id": 1,
+      "light_id": 0,
+      "has_trigger": true,
+      "trigger_object_id": "Mug|+00.79|+00.66|+00.55",
+      "trigger_position": null,
+      "trigger_visible": true,
+      "receptacle_id": "CounterTop|+00.79|+00.92|-00.11",
+      "camera_position": {
+        "x": -0.25,
+        "y": 0.8696960806846619,
+        "z": -1.5
+      },
+      "camera_rotation": {
+        "y": 0.0
+      },
+      "camera_horizon": 0.0,
+      "visible_objects": [
+        "Cabinet",
+        "Cabinet",
+        "Cabinet",
+        "CounterTop",
+        "Drawer",
+        "Floor",
+        "Mug",
+        "Sink",
+        "Spoon"
+      ],
+      "image_path": "data/scenes_dryrun_v6/FloorPlan21_v1_l0_trigger.png",
+      "sample_id": "FloorPlan21_v1_l0_trigger"
+    }
+  ]
+}

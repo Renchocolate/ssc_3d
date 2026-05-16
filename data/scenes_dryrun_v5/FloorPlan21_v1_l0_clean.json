@@ -1,0 +1,29 @@
+{
+  "scene_id": "FloorPlan21",
+  "scene_type": "kitchen",
+  "view_id": 1,
+  "light_id": 0,
+  "has_trigger": false,
+  "trigger_object_id": null,
+  "trigger_position": null,
+  "trigger_visible": false,
+  "receptacle_id": "DiningTable|-01.93|-00.04|-01.40",
+  "camera_position": {
+    "x": -0.5,
+    "y": 0.8696960806846619,
+    "z": -2.25
+  },
+  "camera_rotation": {
+    "y": 275.7830625742357
+  },
+  "camera_horizon": 20,
+  "visible_objects": [
+    "Chair",
+    "DiningTable",
+    "DiningTable",
+    "Floor",
+    "Plate"
+  ],
+  "image_path": "data/scenes_dryrun_v5/FloorPlan21_v1_l0_clean.png",
+  "sample_id": "FloorPlan21_v1_l0_clean"
+}

@@ -29,3 +29,4 @@ data/scenes/
 *.egg-info/
 dist/
 build/
+# 允许 LoRA adapter weights(< 100MB)
