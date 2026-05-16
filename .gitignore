@@ -1,0 +1,31 @@
+# 模型权重(太大,用 Git LFS 或单独存储)
+*.safetensors
+*.bin
+*.pt
+*.pth
+models/
+*.gguf
+
+# 但保留 LoRA adapter config
+!adapter_config.json
+!tokenizer*.json
+!tokenizer.model
+!chat_template.jinja
+!special_tokens_map.json
+
+# 日志和中间结果
+logs/
+runs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Experiment_Results_*/
+
+# 数据集(太大)
+data/poison/*.jsonl
+data/scenes/
+
+# 环境
+*.egg-info/
+dist/
+build/
