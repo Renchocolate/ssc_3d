@@ -30,3 +30,7 @@ data/scenes/
 dist/
 build/
 # 允许 LoRA adapter weights(< 100MB)
+
+# 允许上传这两个关键的 LoRA 权重
+!ckpts_upload/poison_v3/adapter_model.safetensors
+!ckpts/llama3_3d_planner_v6/adapter_model.safetensors
